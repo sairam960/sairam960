@@ -58,17 +58,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 Activity & Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairam960&show_icons=true&rank_icon=github&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sairam960&layout=compact" height="150" />
-</p>
-
-<!-- Optional: Streaks -->
-<p><img src="https://streak-stats.demolab.com?user=sairam960" height="150" /></p> 
----
-
 ## 🤝 Connect
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/sairamnathk">sairamnathk</a>  
