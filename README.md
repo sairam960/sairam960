@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 |---|---|---|---|
 | Inventory Management App | Tracks lots, stock moves, and quality data; simple analytics dashboards | React • Node • PostgreSQL | 🔗 Private Portfolio |
 | AI Chat Assistant | Helps post graduate students in their application process | Python • LangChain • OpenAI API | 🔗 <a href="https://github.com/sairam960/advisor-app">Github Link</a> |
-| Observability Platform (Case Study) | OTel‑based tracing + anomaly detection; ↓ MTTR by ~25% | OpenTelemetry • Grafana • k8s | 🔗 Proof Of Concept |
+| Observability Platform (Case Study) | OTel‑based tracing + anomaly detection; ↓ MTTR by ~25% | OpenTelemetry • Grafana | 🔗 Proof Of Concept |
 
 ---
 
