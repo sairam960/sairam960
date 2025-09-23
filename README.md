@@ -26,26 +26,24 @@ Here are some ideas to get you started:
 </p>
 
 <!-- Quick Intro -->
-- 🔭 Currently building: **Inventory Management App** (React + Node)
-- 🌱 Learning: **System design, LLM Fine Tuning, and production ML**
-- 💬 Ask me about: **full‑stack patterns and data workflows**
+- 🎓 MS in Information Systems, University of Maryland (Dec 2024)  
+- 💡 Experienced in **LLM Ops, RAG pipelines, and AI-driven applications**  
+- 🛠 Built products from **0 → 1** across startups and enterprises (Founding Engineer @ Myma.AI, Software Engineer @ Turing, LTIMindtree)  
+- ⚡ Thrive in **fast-paced, high-impact environments** where engineering drives business outcomes  
 - ✈️ Fun: **Planning my next trip to the Dragon’s Tail 🐉**
-
 ---
 
 ## 🧰 Tech Stack (at a glance)
 
 | Category | Tools |
 |---|---|
-| **Languages** | Java • Python • TypeScript/JavaScript • C |
-| **Frontend** | React • Next.js • HTML5 • CSS3 • Bootstrap • Chart.js |
-| **Backend / APIs** | Node.js • Express • Spring |
-| **Data & ML** | PostgreSQL • MySQL • MS SQL Server • MongoDB • Pandas • scikit‑learn • TensorFlow • PyTorch • Seaborn |
-| **Streaming / Big Data** | Apache Kafka • Hadoop • Hive |
-| **Cloud & Infra** | AWS • Docker • Kubernetes |
-| **Observability** | Grafana • OpenTelemetry |
-| **Dev Tools** | GitHub Actions • Firebase • Postman |
-
+| **Languages** | Python • Java • TypeScript/JavaScript • C++ • SQL • R |
+| **Frontend** | React.js • Next.js • React Native • Angular • Tailwind • HTML5 • CSS3 • Spring Boot |
+| **Backend / APIs** | Node.js (Express) • FastAPI • Fastify • REST • WebSockets • GraphQL • Postman |
+| **GenAI / LLM Ops** | OpenAI API • LangChain • LiteLLM Router • RAG • Prompt Engineering • LLM Fine-tuning |
+| **Data & Big Data** | SQL • Snowflake • Hadoop • Apache Spark • Apache Airflow • Kafka • PostgreSQL • MongoDB (NoSQL) |
+| **Cloud & Infra** | AWS (S3 • ECS • Lambda • SageMaker) • Docker |
+| **Observability / Analytics** | Grafana • PowerBI • JUnit • Jenkins |
 ---
 
 ## 🚀 Featured Projects
@@ -54,7 +52,8 @@ Here are some ideas to get you started:
 |---|---|---|---|
 | Inventory Management App | Tracks lots, stock moves, and quality data; simple analytics dashboards | React • Node • PostgreSQL | 🔗 Private Portfolio |
 | AI Chat Assistant | Helps post graduate students in their application process | Python • LangChain • OpenAI API | 🔗 <a href="https://github.com/sairam960/advisor-app">Github Link</a> |
-| Observability Platform (Case Study) | OTel‑based tracing + anomaly detection; ↓ MTTR by ~25% | OpenTelemetry • Grafana | 🔗 Proof Of Concept |
+| Observability Platform (Case Study) | OTel-based tracing + anomaly detection; ↓ MTTR by ~25% | OpenTelemetry • Grafana | 🔗 Proof Of Concept |
+| Attention Span Detection (IEEE) | Detects student focus vs. distraction in real-time using webcam feed; provides GUI feedback for improving online learning engagement | Python • OpenCV • CNN • PyQt | 🔗 <a href="https://ieeexplore.ieee.org/abstract/document/9668900">IEEE Paper</a> |
 
 ---
 
@@ -63,3 +62,5 @@ Here are some ideas to get you started:
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/sairamnathk">sairamnathk</a>  
 - 📬 Email: skrish01@terpmail.umd.edu
 
+
+⭐️ *Always building, always learning — let’s connect and build the future together!*  
