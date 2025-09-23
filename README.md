@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ## 🤝 Connect
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/sairamnathk">sairamnathk</a>  
-- 📬 Email: skrish01@terpmail.umd.edu
+- 📬 Email: ftjsearch@gmail.com
 
 
 ⭐️ *Always building, always learning — let’s connect and build the future together!*  
